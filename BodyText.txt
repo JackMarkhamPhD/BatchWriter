@@ -1,1 +1,2 @@
-methyl 5-bromopicolinate (100 mg, 0.463 mmol), palladium (II) acetate (5.2 mg, 0.05 eq), X-Phos (17 mg, 0.075 eq) and Cs2CO3 (181 mg, 1.2 eq) were added to a round-bottom pressure vessel. The vessel was then evacuated and flushed with nitrogen 3 times. Dry toluene (15 mL) and 2-chloroaniline (62 mg, 51 uL, 1.05 eq) were added under nitrogen and the rubber septum was replaced with the pressure vessel stopper. The solution was sealed and stirred at 110C overnight (20 hr).
+RGT_Vol_1 mL of RGT_Name_1 was put in a 100 mL RBF 
+Second line
